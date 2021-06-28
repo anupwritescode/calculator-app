@@ -1,0 +1,16 @@
+.display {
+    width: 200px;
+    height: 100px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.element {
+    height: 50px;
+    width: 50px;
+    border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
